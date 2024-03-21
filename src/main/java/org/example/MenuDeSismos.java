@@ -1,5 +1,5 @@
 import java.util.Random;
-public class MenuSismosMatriz {
+public class MenuDeSismos {
 
     private static final int filas = 7;
     private static final int columnas = 24;
