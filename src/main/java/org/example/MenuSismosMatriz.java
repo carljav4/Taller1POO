@@ -35,7 +35,7 @@ public class MenuSismosMatriz {
     }
 
     private static void mostrarMenu() {
-        System.out.println("MENU");
+        System.out.println("Menu");
         System.out.println("1. Mostrar lecturas de la semana");
         System.out.println("2. Mostrar sismo de mayor magnitud");
         System.out.println("3. Mostrar sismos mayores o iguales a 5.0");
@@ -43,12 +43,10 @@ public class MenuSismosMatriz {
         System.out.println("5. Salir del programa");
         System.out.print("Ingrese su opción: ");
     }
-
     private static int obtenerOpcion() {
         Random random = new Random();
         return random.nextInt(5) + 1;
     }
-
     private static double[][] generarLecturasAleatorias() {
         Random random = new Random();
         double[][] lecturas = new double[filas][columnas];
