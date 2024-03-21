@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class MenuSismosMatriz {
 
     private static final int filas = 7;
