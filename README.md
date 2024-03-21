@@ -1,1 +1,1 @@
-Taller1POO
+Taller1POO: La idea de solución es crear un menu que tenga lo necesario para poder ingresar correctamente los datos con las siguientes opciones: Ingresas datos, mostrar sismo de mayor magnitud, contar sismos mayores o iguales a 5.0, enviar SMS por cada sismo mayor o igual a 7.0 y salir del programa. 
